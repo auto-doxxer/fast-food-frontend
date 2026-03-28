@@ -4,8 +4,6 @@ Tampilan web sistem antrean restoran menggunakan React + Vite.
 
 > Backend: https://github.com/auto-doxxer/fast-food-queue — **jalankan backend dulu sebelum frontend!**
 
----
-
 ## Cara Menjalankan
 
 ### 1. Install Node.js
